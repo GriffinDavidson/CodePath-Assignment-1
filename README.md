@@ -17,7 +17,7 @@ The following **optional** user stories are complete:
 
 ## Video Walkthrough
 
-<img src = "https://i.imgur.com/WEoBr78.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src = 'https://i.imgur.com/ePnL8ls.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
