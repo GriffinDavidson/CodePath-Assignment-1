@@ -21,7 +21,7 @@ The following **optional** user stories are complete:
 
 ## Notes
 
-Couldn't figure out how to get auto layout working properly with just the included videos, need a bit of help with that.
+Couldn't figure out how to get auto layout working properly with just the included videos, need a bit of help with that. UI and Gif built and designed around iPhone XR and 11 size
 
 ## Attributions
 
