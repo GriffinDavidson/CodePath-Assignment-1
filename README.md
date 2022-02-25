@@ -1,6 +1,6 @@
 # Assignment 1 - Flix
 
-Time spent: **6 hours*** give or take
+Time spent: **6 hours** give or take
 
 ## User Stories
 
