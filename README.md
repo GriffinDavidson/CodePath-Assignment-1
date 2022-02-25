@@ -13,7 +13,7 @@ The following **required** user stories are complete:
 The following **optional** user stories are complete:
 
 * [ ] User can view the app on various device sizes and orientations.
-* [ ] Run your app on a real device.
+* [x] Run your app on a real device.
 
 ## Video Walkthrough
 
